@@ -5,7 +5,7 @@
 ### Contents:
 1. [Jupyter Notebook](..Data%20View.ipynb)
 2. [Presentation pdf](../ChesapeakeStudyAreas.pdf)
-3. [Presentation Video]()
+3. [Presentation Video](https://youtu.be/cmsbfvrS1M8)
 
 [The Chesapeake Monitoring Cooperative](https://www.chesapeakemonitoringcoop.org/) (CMC) and [The Chesapeake Bay Program](https://www.chesapeakebay.net/) (CBP) contain a variety of water quality measurements across time and across the entire Chesapeake Bay watershed. Because the Chesapeake Bay watershed is so important for tourism and fishing industries and is so heavily impacted by land use and population, these efforts have been created to attempt to paint a picture of the long-term health of the watershed.
 
